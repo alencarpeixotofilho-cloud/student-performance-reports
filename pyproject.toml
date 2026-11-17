@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "student-performance-reports"
+version = "0.1.0"
+description = "Individual and cohort performance reports for mock-exam series."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.24", "pandas>=2.0", "matplotlib>=3.7", "openpyxl>=3.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[project.scripts]
+perfreport = "perfreport.cli:main"
+
+[tool.setuptools]
+packages = ["perfreport"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

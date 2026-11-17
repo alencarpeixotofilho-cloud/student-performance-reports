@@ -1,0 +1,701 @@
+exam_id,item_id,domain,topic,competency
+E1,E1-Q001,Internal Medicine,Nephrology,Diagnosis
+E1,E1-Q002,Public Health,Preventive Medicine,Diagnosis
+E1,E1-Q003,Surgery,Perioperative Care,Prevention
+E1,E1-Q004,Internal Medicine,Endocrinology,Prevention
+E1,E1-Q005,Obstetrics & Gynecology,Gynecologic Oncology,Diagnosis
+E1,E1-Q006,Internal Medicine,Pulmonology,Diagnosis
+E1,E1-Q007,Pediatrics,Neonatology,Prevention
+E1,E1-Q008,Pediatrics,Neonatology,Management
+E1,E1-Q009,Internal Medicine,Cardiology,Prevention
+E1,E1-Q010,Surgery,Vascular Surgery,Diagnosis
+E1,E1-Q011,Surgery,Perioperative Care,Clinical Reasoning
+E1,E1-Q012,Surgery,Trauma,Management
+E1,E1-Q013,Public Health,Primary Care,Management
+E1,E1-Q014,Pediatrics,Neonatology,Management
+E1,E1-Q015,Internal Medicine,Pulmonology,Prevention
+E1,E1-Q016,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E1,E1-Q017,Surgery,Trauma,Diagnosis
+E1,E1-Q018,Pediatrics,Immunization,Diagnosis
+E1,E1-Q019,Surgery,Vascular Surgery,Diagnosis
+E1,E1-Q020,Pediatrics,Neonatology,Clinical Reasoning
+E1,E1-Q021,Obstetrics & Gynecology,Gynecologic Oncology,Management
+E1,E1-Q022,Surgery,Acute Abdomen,Clinical Reasoning
+E1,E1-Q023,Public Health,Primary Care,Diagnosis
+E1,E1-Q024,Pediatrics,Immunization,Prevention
+E1,E1-Q025,Pediatrics,Neonatology,Clinical Reasoning
+E1,E1-Q026,Internal Medicine,Infectious Diseases,Prevention
+E1,E1-Q027,Surgery,Vascular Surgery,Management
+E1,E1-Q028,Surgery,Trauma,Clinical Reasoning
+E1,E1-Q029,Internal Medicine,Endocrinology,Prevention
+E1,E1-Q030,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E1,E1-Q031,Obstetrics & Gynecology,Prenatal Care,Diagnosis
+E1,E1-Q032,Surgery,Acute Abdomen,Prevention
+E1,E1-Q033,Obstetrics & Gynecology,Prenatal Care,Prevention
+E1,E1-Q034,Internal Medicine,Cardiology,Clinical Reasoning
+E1,E1-Q035,Obstetrics & Gynecology,Family Planning,Diagnosis
+E1,E1-Q036,Internal Medicine,Nephrology,Clinical Reasoning
+E1,E1-Q037,Public Health,Primary Care,Prevention
+E1,E1-Q038,Public Health,Preventive Medicine,Clinical Reasoning
+E1,E1-Q039,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E1,E1-Q040,Surgery,Trauma,Management
+E1,E1-Q041,Internal Medicine,Nephrology,Clinical Reasoning
+E1,E1-Q042,Obstetrics & Gynecology,Labor & Delivery,Management
+E1,E1-Q043,Pediatrics,Pediatric Infections,Diagnosis
+E1,E1-Q044,Internal Medicine,Endocrinology,Prevention
+E1,E1-Q045,Pediatrics,Pediatric Infections,Clinical Reasoning
+E1,E1-Q046,Internal Medicine,Nephrology,Clinical Reasoning
+E1,E1-Q047,Pediatrics,Growth & Development,Management
+E1,E1-Q048,Pediatrics,Pediatric Infections,Prevention
+E1,E1-Q049,Obstetrics & Gynecology,Labor & Delivery,Prevention
+E1,E1-Q050,Surgery,Trauma,Management
+E1,E1-Q051,Internal Medicine,Nephrology,Clinical Reasoning
+E1,E1-Q052,Surgery,Trauma,Clinical Reasoning
+E1,E1-Q053,Internal Medicine,Nephrology,Management
+E1,E1-Q054,Public Health,Health Policy,Management
+E1,E1-Q055,Public Health,Epidemiology,Prevention
+E1,E1-Q056,Pediatrics,Immunization,Clinical Reasoning
+E1,E1-Q057,Internal Medicine,Cardiology,Prevention
+E1,E1-Q058,Internal Medicine,Cardiology,Clinical Reasoning
+E1,E1-Q059,Public Health,Primary Care,Clinical Reasoning
+E1,E1-Q060,Internal Medicine,Infectious Diseases,Prevention
+E1,E1-Q061,Internal Medicine,Cardiology,Prevention
+E1,E1-Q062,Obstetrics & Gynecology,Gynecologic Oncology,Diagnosis
+E1,E1-Q063,Surgery,Acute Abdomen,Management
+E1,E1-Q064,Surgery,Trauma,Clinical Reasoning
+E1,E1-Q065,Surgery,Perioperative Care,Management
+E1,E1-Q066,Obstetrics & Gynecology,Labor & Delivery,Diagnosis
+E1,E1-Q067,Pediatrics,Immunization,Diagnosis
+E1,E1-Q068,Obstetrics & Gynecology,Gynecologic Oncology,Diagnosis
+E1,E1-Q069,Pediatrics,Neonatology,Prevention
+E1,E1-Q070,Surgery,Acute Abdomen,Clinical Reasoning
+E1,E1-Q071,Internal Medicine,Nephrology,Management
+E1,E1-Q072,Obstetrics & Gynecology,Family Planning,Clinical Reasoning
+E1,E1-Q073,Internal Medicine,Infectious Diseases,Diagnosis
+E1,E1-Q074,Pediatrics,Neonatology,Clinical Reasoning
+E1,E1-Q075,Pediatrics,Growth & Development,Clinical Reasoning
+E1,E1-Q076,Public Health,Primary Care,Prevention
+E1,E1-Q077,Internal Medicine,Pulmonology,Management
+E1,E1-Q078,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E1,E1-Q079,Obstetrics & Gynecology,Prenatal Care,Diagnosis
+E1,E1-Q080,Surgery,Vascular Surgery,Clinical Reasoning
+E1,E1-Q081,Internal Medicine,Pulmonology,Clinical Reasoning
+E1,E1-Q082,Public Health,Epidemiology,Clinical Reasoning
+E1,E1-Q083,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E1,E1-Q084,Internal Medicine,Nephrology,Prevention
+E1,E1-Q085,Internal Medicine,Infectious Diseases,Prevention
+E1,E1-Q086,Public Health,Health Policy,Prevention
+E1,E1-Q087,Pediatrics,Neonatology,Management
+E1,E1-Q088,Public Health,Epidemiology,Clinical Reasoning
+E1,E1-Q089,Pediatrics,Immunization,Diagnosis
+E1,E1-Q090,Internal Medicine,Nephrology,Management
+E1,E1-Q091,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E1,E1-Q092,Surgery,Perioperative Care,Clinical Reasoning
+E1,E1-Q093,Obstetrics & Gynecology,Labor & Delivery,Management
+E1,E1-Q094,Internal Medicine,Pulmonology,Clinical Reasoning
+E1,E1-Q095,Surgery,Perioperative Care,Clinical Reasoning
+E1,E1-Q096,Surgery,Acute Abdomen,Clinical Reasoning
+E1,E1-Q097,Obstetrics & Gynecology,Prenatal Care,Prevention
+E1,E1-Q098,Internal Medicine,Nephrology,Management
+E1,E1-Q099,Public Health,Primary Care,Diagnosis
+E1,E1-Q100,Surgery,Acute Abdomen,Management
+E2,E2-Q001,Internal Medicine,Cardiology,Diagnosis
+E2,E2-Q002,Obstetrics & Gynecology,Family Planning,Clinical Reasoning
+E2,E2-Q003,Internal Medicine,Cardiology,Diagnosis
+E2,E2-Q004,Pediatrics,Neonatology,Clinical Reasoning
+E2,E2-Q005,Obstetrics & Gynecology,Prenatal Care,Diagnosis
+E2,E2-Q006,Public Health,Primary Care,Management
+E2,E2-Q007,Pediatrics,Neonatology,Diagnosis
+E2,E2-Q008,Surgery,Perioperative Care,Management
+E2,E2-Q009,Pediatrics,Immunization,Clinical Reasoning
+E2,E2-Q010,Public Health,Health Policy,Management
+E2,E2-Q011,Public Health,Health Policy,Management
+E2,E2-Q012,Pediatrics,Growth & Development,Prevention
+E2,E2-Q013,Public Health,Health Policy,Clinical Reasoning
+E2,E2-Q014,Surgery,Perioperative Care,Prevention
+E2,E2-Q015,Internal Medicine,Pulmonology,Clinical Reasoning
+E2,E2-Q016,Public Health,Primary Care,Clinical Reasoning
+E2,E2-Q017,Public Health,Preventive Medicine,Clinical Reasoning
+E2,E2-Q018,Pediatrics,Growth & Development,Prevention
+E2,E2-Q019,Internal Medicine,Cardiology,Prevention
+E2,E2-Q020,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E2,E2-Q021,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E2,E2-Q022,Internal Medicine,Endocrinology,Management
+E2,E2-Q023,Internal Medicine,Cardiology,Management
+E2,E2-Q024,Surgery,Perioperative Care,Diagnosis
+E2,E2-Q025,Public Health,Preventive Medicine,Clinical Reasoning
+E2,E2-Q026,Internal Medicine,Endocrinology,Prevention
+E2,E2-Q027,Internal Medicine,Endocrinology,Diagnosis
+E2,E2-Q028,Surgery,Perioperative Care,Clinical Reasoning
+E2,E2-Q029,Pediatrics,Growth & Development,Prevention
+E2,E2-Q030,Surgery,Trauma,Clinical Reasoning
+E2,E2-Q031,Surgery,Perioperative Care,Diagnosis
+E2,E2-Q032,Pediatrics,Pediatric Infections,Management
+E2,E2-Q033,Surgery,Vascular Surgery,Diagnosis
+E2,E2-Q034,Pediatrics,Immunization,Management
+E2,E2-Q035,Pediatrics,Immunization,Diagnosis
+E2,E2-Q036,Surgery,Trauma,Diagnosis
+E2,E2-Q037,Internal Medicine,Cardiology,Prevention
+E2,E2-Q038,Internal Medicine,Infectious Diseases,Diagnosis
+E2,E2-Q039,Surgery,Perioperative Care,Management
+E2,E2-Q040,Public Health,Preventive Medicine,Management
+E2,E2-Q041,Public Health,Preventive Medicine,Clinical Reasoning
+E2,E2-Q042,Internal Medicine,Nephrology,Prevention
+E2,E2-Q043,Public Health,Primary Care,Management
+E2,E2-Q044,Surgery,Acute Abdomen,Management
+E2,E2-Q045,Internal Medicine,Pulmonology,Clinical Reasoning
+E2,E2-Q046,Internal Medicine,Cardiology,Clinical Reasoning
+E2,E2-Q047,Internal Medicine,Nephrology,Prevention
+E2,E2-Q048,Internal Medicine,Endocrinology,Prevention
+E2,E2-Q049,Surgery,Perioperative Care,Prevention
+E2,E2-Q050,Public Health,Primary Care,Clinical Reasoning
+E2,E2-Q051,Public Health,Preventive Medicine,Clinical Reasoning
+E2,E2-Q052,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E2,E2-Q053,Obstetrics & Gynecology,Prenatal Care,Prevention
+E2,E2-Q054,Pediatrics,Pediatric Infections,Diagnosis
+E2,E2-Q055,Surgery,Perioperative Care,Prevention
+E2,E2-Q056,Surgery,Acute Abdomen,Prevention
+E2,E2-Q057,Pediatrics,Neonatology,Management
+E2,E2-Q058,Pediatrics,Neonatology,Prevention
+E2,E2-Q059,Pediatrics,Immunization,Diagnosis
+E2,E2-Q060,Surgery,Acute Abdomen,Management
+E2,E2-Q061,Internal Medicine,Infectious Diseases,Diagnosis
+E2,E2-Q062,Pediatrics,Neonatology,Prevention
+E2,E2-Q063,Obstetrics & Gynecology,Prenatal Care,Diagnosis
+E2,E2-Q064,Public Health,Preventive Medicine,Diagnosis
+E2,E2-Q065,Public Health,Epidemiology,Clinical Reasoning
+E2,E2-Q066,Pediatrics,Pediatric Infections,Clinical Reasoning
+E2,E2-Q067,Pediatrics,Pediatric Infections,Clinical Reasoning
+E2,E2-Q068,Internal Medicine,Endocrinology,Prevention
+E2,E2-Q069,Pediatrics,Immunization,Management
+E2,E2-Q070,Internal Medicine,Infectious Diseases,Diagnosis
+E2,E2-Q071,Surgery,Acute Abdomen,Diagnosis
+E2,E2-Q072,Internal Medicine,Pulmonology,Clinical Reasoning
+E2,E2-Q073,Public Health,Preventive Medicine,Management
+E2,E2-Q074,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E2,E2-Q075,Surgery,Acute Abdomen,Prevention
+E2,E2-Q076,Public Health,Preventive Medicine,Clinical Reasoning
+E2,E2-Q077,Surgery,Acute Abdomen,Prevention
+E2,E2-Q078,Surgery,Perioperative Care,Prevention
+E2,E2-Q079,Obstetrics & Gynecology,Gynecologic Oncology,Management
+E2,E2-Q080,Surgery,Acute Abdomen,Diagnosis
+E2,E2-Q081,Internal Medicine,Infectious Diseases,Prevention
+E2,E2-Q082,Pediatrics,Growth & Development,Prevention
+E2,E2-Q083,Public Health,Epidemiology,Clinical Reasoning
+E2,E2-Q084,Surgery,Vascular Surgery,Prevention
+E2,E2-Q085,Pediatrics,Growth & Development,Prevention
+E2,E2-Q086,Internal Medicine,Infectious Diseases,Prevention
+E2,E2-Q087,Public Health,Preventive Medicine,Prevention
+E2,E2-Q088,Internal Medicine,Nephrology,Clinical Reasoning
+E2,E2-Q089,Obstetrics & Gynecology,Prenatal Care,Prevention
+E2,E2-Q090,Surgery,Trauma,Prevention
+E2,E2-Q091,Internal Medicine,Infectious Diseases,Management
+E2,E2-Q092,Public Health,Epidemiology,Clinical Reasoning
+E2,E2-Q093,Internal Medicine,Cardiology,Prevention
+E2,E2-Q094,Internal Medicine,Pulmonology,Diagnosis
+E2,E2-Q095,Surgery,Perioperative Care,Management
+E2,E2-Q096,Internal Medicine,Cardiology,Diagnosis
+E2,E2-Q097,Obstetrics & Gynecology,Gynecologic Oncology,Diagnosis
+E2,E2-Q098,Public Health,Preventive Medicine,Clinical Reasoning
+E2,E2-Q099,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E2,E2-Q100,Obstetrics & Gynecology,Prenatal Care,Diagnosis
+E3,E3-Q001,Obstetrics & Gynecology,Family Planning,Clinical Reasoning
+E3,E3-Q002,Public Health,Epidemiology,Diagnosis
+E3,E3-Q003,Obstetrics & Gynecology,Prenatal Care,Diagnosis
+E3,E3-Q004,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E3,E3-Q005,Internal Medicine,Endocrinology,Prevention
+E3,E3-Q006,Internal Medicine,Nephrology,Management
+E3,E3-Q007,Pediatrics,Neonatology,Management
+E3,E3-Q008,Internal Medicine,Infectious Diseases,Management
+E3,E3-Q009,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E3,E3-Q010,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E3,E3-Q011,Surgery,Vascular Surgery,Clinical Reasoning
+E3,E3-Q012,Internal Medicine,Cardiology,Clinical Reasoning
+E3,E3-Q013,Obstetrics & Gynecology,Gynecologic Oncology,Management
+E3,E3-Q014,Obstetrics & Gynecology,Gynecologic Oncology,Diagnosis
+E3,E3-Q015,Surgery,Acute Abdomen,Prevention
+E3,E3-Q016,Internal Medicine,Pulmonology,Diagnosis
+E3,E3-Q017,Internal Medicine,Cardiology,Prevention
+E3,E3-Q018,Pediatrics,Neonatology,Management
+E3,E3-Q019,Public Health,Primary Care,Diagnosis
+E3,E3-Q020,Public Health,Primary Care,Diagnosis
+E3,E3-Q021,Obstetrics & Gynecology,Gynecologic Oncology,Clinical Reasoning
+E3,E3-Q022,Pediatrics,Pediatric Infections,Clinical Reasoning
+E3,E3-Q023,Surgery,Acute Abdomen,Diagnosis
+E3,E3-Q024,Surgery,Perioperative Care,Diagnosis
+E3,E3-Q025,Public Health,Health Policy,Diagnosis
+E3,E3-Q026,Pediatrics,Neonatology,Management
+E3,E3-Q027,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E3,E3-Q028,Obstetrics & Gynecology,Prenatal Care,Management
+E3,E3-Q029,Surgery,Trauma,Diagnosis
+E3,E3-Q030,Internal Medicine,Endocrinology,Management
+E3,E3-Q031,Obstetrics & Gynecology,Family Planning,Clinical Reasoning
+E3,E3-Q032,Internal Medicine,Nephrology,Prevention
+E3,E3-Q033,Surgery,Trauma,Prevention
+E3,E3-Q034,Internal Medicine,Endocrinology,Prevention
+E3,E3-Q035,Obstetrics & Gynecology,Labor & Delivery,Management
+E3,E3-Q036,Surgery,Trauma,Clinical Reasoning
+E3,E3-Q037,Surgery,Perioperative Care,Diagnosis
+E3,E3-Q038,Pediatrics,Pediatric Infections,Clinical Reasoning
+E3,E3-Q039,Public Health,Primary Care,Prevention
+E3,E3-Q040,Internal Medicine,Endocrinology,Diagnosis
+E3,E3-Q041,Surgery,Trauma,Management
+E3,E3-Q042,Obstetrics & Gynecology,Family Planning,Prevention
+E3,E3-Q043,Surgery,Trauma,Management
+E3,E3-Q044,Internal Medicine,Infectious Diseases,Prevention
+E3,E3-Q045,Internal Medicine,Infectious Diseases,Diagnosis
+E3,E3-Q046,Pediatrics,Immunization,Clinical Reasoning
+E3,E3-Q047,Public Health,Health Policy,Management
+E3,E3-Q048,Internal Medicine,Nephrology,Prevention
+E3,E3-Q049,Obstetrics & Gynecology,Prenatal Care,Prevention
+E3,E3-Q050,Surgery,Acute Abdomen,Clinical Reasoning
+E3,E3-Q051,Obstetrics & Gynecology,Family Planning,Clinical Reasoning
+E3,E3-Q052,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E3,E3-Q053,Surgery,Perioperative Care,Management
+E3,E3-Q054,Surgery,Perioperative Care,Diagnosis
+E3,E3-Q055,Pediatrics,Immunization,Clinical Reasoning
+E3,E3-Q056,Pediatrics,Immunization,Management
+E3,E3-Q057,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E3,E3-Q058,Internal Medicine,Nephrology,Prevention
+E3,E3-Q059,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E3,E3-Q060,Internal Medicine,Nephrology,Prevention
+E3,E3-Q061,Obstetrics & Gynecology,Family Planning,Management
+E3,E3-Q062,Pediatrics,Pediatric Infections,Clinical Reasoning
+E3,E3-Q063,Public Health,Primary Care,Management
+E3,E3-Q064,Obstetrics & Gynecology,Family Planning,Management
+E3,E3-Q065,Public Health,Primary Care,Clinical Reasoning
+E3,E3-Q066,Pediatrics,Growth & Development,Clinical Reasoning
+E3,E3-Q067,Obstetrics & Gynecology,Gynecologic Oncology,Management
+E3,E3-Q068,Public Health,Epidemiology,Management
+E3,E3-Q069,Pediatrics,Immunization,Prevention
+E3,E3-Q070,Internal Medicine,Endocrinology,Diagnosis
+E3,E3-Q071,Obstetrics & Gynecology,Gynecologic Oncology,Clinical Reasoning
+E3,E3-Q072,Public Health,Health Policy,Clinical Reasoning
+E3,E3-Q073,Pediatrics,Growth & Development,Prevention
+E3,E3-Q074,Obstetrics & Gynecology,Prenatal Care,Management
+E3,E3-Q075,Surgery,Perioperative Care,Clinical Reasoning
+E3,E3-Q076,Surgery,Acute Abdomen,Management
+E3,E3-Q077,Public Health,Primary Care,Clinical Reasoning
+E3,E3-Q078,Surgery,Vascular Surgery,Clinical Reasoning
+E3,E3-Q079,Internal Medicine,Cardiology,Diagnosis
+E3,E3-Q080,Internal Medicine,Nephrology,Diagnosis
+E3,E3-Q081,Surgery,Vascular Surgery,Clinical Reasoning
+E3,E3-Q082,Pediatrics,Growth & Development,Diagnosis
+E3,E3-Q083,Pediatrics,Growth & Development,Diagnosis
+E3,E3-Q084,Surgery,Perioperative Care,Management
+E3,E3-Q085,Public Health,Primary Care,Management
+E3,E3-Q086,Pediatrics,Growth & Development,Diagnosis
+E3,E3-Q087,Surgery,Acute Abdomen,Clinical Reasoning
+E3,E3-Q088,Internal Medicine,Infectious Diseases,Diagnosis
+E3,E3-Q089,Public Health,Primary Care,Prevention
+E3,E3-Q090,Internal Medicine,Nephrology,Management
+E3,E3-Q091,Public Health,Preventive Medicine,Prevention
+E3,E3-Q092,Public Health,Health Policy,Management
+E3,E3-Q093,Public Health,Primary Care,Prevention
+E3,E3-Q094,Pediatrics,Pediatric Infections,Clinical Reasoning
+E3,E3-Q095,Public Health,Preventive Medicine,Prevention
+E3,E3-Q096,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E3,E3-Q097,Public Health,Preventive Medicine,Management
+E3,E3-Q098,Pediatrics,Neonatology,Clinical Reasoning
+E3,E3-Q099,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E3,E3-Q100,Surgery,Trauma,Prevention
+E4,E4-Q001,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E4,E4-Q002,Obstetrics & Gynecology,Prenatal Care,Prevention
+E4,E4-Q003,Obstetrics & Gynecology,Prenatal Care,Management
+E4,E4-Q004,Surgery,Acute Abdomen,Diagnosis
+E4,E4-Q005,Surgery,Perioperative Care,Clinical Reasoning
+E4,E4-Q006,Surgery,Acute Abdomen,Diagnosis
+E4,E4-Q007,Pediatrics,Pediatric Infections,Management
+E4,E4-Q008,Obstetrics & Gynecology,Labor & Delivery,Management
+E4,E4-Q009,Public Health,Epidemiology,Management
+E4,E4-Q010,Surgery,Trauma,Management
+E4,E4-Q011,Pediatrics,Immunization,Prevention
+E4,E4-Q012,Surgery,Acute Abdomen,Management
+E4,E4-Q013,Pediatrics,Immunization,Prevention
+E4,E4-Q014,Surgery,Acute Abdomen,Prevention
+E4,E4-Q015,Pediatrics,Immunization,Clinical Reasoning
+E4,E4-Q016,Surgery,Trauma,Management
+E4,E4-Q017,Public Health,Epidemiology,Clinical Reasoning
+E4,E4-Q018,Internal Medicine,Nephrology,Clinical Reasoning
+E4,E4-Q019,Pediatrics,Immunization,Clinical Reasoning
+E4,E4-Q020,Internal Medicine,Cardiology,Prevention
+E4,E4-Q021,Public Health,Health Policy,Clinical Reasoning
+E4,E4-Q022,Public Health,Primary Care,Diagnosis
+E4,E4-Q023,Pediatrics,Pediatric Infections,Prevention
+E4,E4-Q024,Pediatrics,Pediatric Infections,Diagnosis
+E4,E4-Q025,Internal Medicine,Cardiology,Clinical Reasoning
+E4,E4-Q026,Public Health,Epidemiology,Clinical Reasoning
+E4,E4-Q027,Public Health,Primary Care,Diagnosis
+E4,E4-Q028,Obstetrics & Gynecology,Family Planning,Management
+E4,E4-Q029,Internal Medicine,Pulmonology,Management
+E4,E4-Q030,Internal Medicine,Nephrology,Clinical Reasoning
+E4,E4-Q031,Pediatrics,Growth & Development,Clinical Reasoning
+E4,E4-Q032,Surgery,Vascular Surgery,Prevention
+E4,E4-Q033,Internal Medicine,Infectious Diseases,Prevention
+E4,E4-Q034,Pediatrics,Immunization,Management
+E4,E4-Q035,Internal Medicine,Nephrology,Clinical Reasoning
+E4,E4-Q036,Obstetrics & Gynecology,Prenatal Care,Management
+E4,E4-Q037,Internal Medicine,Endocrinology,Prevention
+E4,E4-Q038,Pediatrics,Growth & Development,Clinical Reasoning
+E4,E4-Q039,Surgery,Vascular Surgery,Diagnosis
+E4,E4-Q040,Public Health,Health Policy,Management
+E4,E4-Q041,Pediatrics,Immunization,Clinical Reasoning
+E4,E4-Q042,Surgery,Vascular Surgery,Management
+E4,E4-Q043,Internal Medicine,Endocrinology,Prevention
+E4,E4-Q044,Pediatrics,Pediatric Infections,Management
+E4,E4-Q045,Obstetrics & Gynecology,Gynecologic Oncology,Management
+E4,E4-Q046,Pediatrics,Pediatric Infections,Management
+E4,E4-Q047,Surgery,Trauma,Clinical Reasoning
+E4,E4-Q048,Obstetrics & Gynecology,Labor & Delivery,Prevention
+E4,E4-Q049,Internal Medicine,Cardiology,Management
+E4,E4-Q050,Pediatrics,Neonatology,Prevention
+E4,E4-Q051,Obstetrics & Gynecology,Gynecologic Oncology,Clinical Reasoning
+E4,E4-Q052,Obstetrics & Gynecology,Labor & Delivery,Management
+E4,E4-Q053,Obstetrics & Gynecology,Gynecologic Oncology,Clinical Reasoning
+E4,E4-Q054,Surgery,Trauma,Management
+E4,E4-Q055,Pediatrics,Neonatology,Management
+E4,E4-Q056,Public Health,Health Policy,Diagnosis
+E4,E4-Q057,Pediatrics,Growth & Development,Management
+E4,E4-Q058,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E4,E4-Q059,Pediatrics,Immunization,Diagnosis
+E4,E4-Q060,Internal Medicine,Nephrology,Diagnosis
+E4,E4-Q061,Public Health,Epidemiology,Diagnosis
+E4,E4-Q062,Pediatrics,Neonatology,Prevention
+E4,E4-Q063,Surgery,Vascular Surgery,Prevention
+E4,E4-Q064,Internal Medicine,Cardiology,Prevention
+E4,E4-Q065,Surgery,Acute Abdomen,Management
+E4,E4-Q066,Internal Medicine,Infectious Diseases,Prevention
+E4,E4-Q067,Public Health,Preventive Medicine,Management
+E4,E4-Q068,Obstetrics & Gynecology,Gynecologic Oncology,Clinical Reasoning
+E4,E4-Q069,Pediatrics,Pediatric Infections,Prevention
+E4,E4-Q070,Pediatrics,Immunization,Diagnosis
+E4,E4-Q071,Surgery,Perioperative Care,Prevention
+E4,E4-Q072,Internal Medicine,Cardiology,Diagnosis
+E4,E4-Q073,Public Health,Health Policy,Clinical Reasoning
+E4,E4-Q074,Pediatrics,Growth & Development,Clinical Reasoning
+E4,E4-Q075,Obstetrics & Gynecology,Labor & Delivery,Prevention
+E4,E4-Q076,Pediatrics,Neonatology,Diagnosis
+E4,E4-Q077,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E4,E4-Q078,Internal Medicine,Endocrinology,Diagnosis
+E4,E4-Q079,Public Health,Epidemiology,Management
+E4,E4-Q080,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E4,E4-Q081,Surgery,Acute Abdomen,Clinical Reasoning
+E4,E4-Q082,Pediatrics,Immunization,Clinical Reasoning
+E4,E4-Q083,Pediatrics,Pediatric Infections,Prevention
+E4,E4-Q084,Public Health,Health Policy,Prevention
+E4,E4-Q085,Internal Medicine,Nephrology,Prevention
+E4,E4-Q086,Obstetrics & Gynecology,Labor & Delivery,Diagnosis
+E4,E4-Q087,Pediatrics,Immunization,Clinical Reasoning
+E4,E4-Q088,Surgery,Trauma,Management
+E4,E4-Q089,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E4,E4-Q090,Internal Medicine,Pulmonology,Prevention
+E4,E4-Q091,Pediatrics,Immunization,Management
+E4,E4-Q092,Surgery,Trauma,Management
+E4,E4-Q093,Internal Medicine,Pulmonology,Clinical Reasoning
+E4,E4-Q094,Internal Medicine,Infectious Diseases,Management
+E4,E4-Q095,Obstetrics & Gynecology,Gynecologic Oncology,Management
+E4,E4-Q096,Public Health,Health Policy,Prevention
+E4,E4-Q097,Surgery,Perioperative Care,Prevention
+E4,E4-Q098,Public Health,Primary Care,Clinical Reasoning
+E4,E4-Q099,Pediatrics,Growth & Development,Clinical Reasoning
+E4,E4-Q100,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E5,E5-Q001,Pediatrics,Neonatology,Management
+E5,E5-Q002,Internal Medicine,Cardiology,Management
+E5,E5-Q003,Obstetrics & Gynecology,Family Planning,Diagnosis
+E5,E5-Q004,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E5,E5-Q005,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E5,E5-Q006,Public Health,Epidemiology,Prevention
+E5,E5-Q007,Obstetrics & Gynecology,Family Planning,Prevention
+E5,E5-Q008,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E5,E5-Q009,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E5,E5-Q010,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E5,E5-Q011,Internal Medicine,Cardiology,Prevention
+E5,E5-Q012,Pediatrics,Immunization,Clinical Reasoning
+E5,E5-Q013,Internal Medicine,Endocrinology,Prevention
+E5,E5-Q014,Public Health,Health Policy,Diagnosis
+E5,E5-Q015,Surgery,Vascular Surgery,Diagnosis
+E5,E5-Q016,Obstetrics & Gynecology,Labor & Delivery,Management
+E5,E5-Q017,Surgery,Vascular Surgery,Diagnosis
+E5,E5-Q018,Obstetrics & Gynecology,Labor & Delivery,Diagnosis
+E5,E5-Q019,Obstetrics & Gynecology,Labor & Delivery,Management
+E5,E5-Q020,Public Health,Health Policy,Clinical Reasoning
+E5,E5-Q021,Internal Medicine,Cardiology,Diagnosis
+E5,E5-Q022,Public Health,Epidemiology,Clinical Reasoning
+E5,E5-Q023,Pediatrics,Pediatric Infections,Management
+E5,E5-Q024,Public Health,Preventive Medicine,Management
+E5,E5-Q025,Internal Medicine,Pulmonology,Diagnosis
+E5,E5-Q026,Pediatrics,Neonatology,Clinical Reasoning
+E5,E5-Q027,Obstetrics & Gynecology,Family Planning,Prevention
+E5,E5-Q028,Surgery,Vascular Surgery,Clinical Reasoning
+E5,E5-Q029,Pediatrics,Neonatology,Management
+E5,E5-Q030,Public Health,Health Policy,Prevention
+E5,E5-Q031,Pediatrics,Immunization,Clinical Reasoning
+E5,E5-Q032,Internal Medicine,Pulmonology,Diagnosis
+E5,E5-Q033,Internal Medicine,Pulmonology,Prevention
+E5,E5-Q034,Public Health,Preventive Medicine,Diagnosis
+E5,E5-Q035,Public Health,Health Policy,Prevention
+E5,E5-Q036,Internal Medicine,Cardiology,Prevention
+E5,E5-Q037,Public Health,Preventive Medicine,Diagnosis
+E5,E5-Q038,Internal Medicine,Infectious Diseases,Prevention
+E5,E5-Q039,Pediatrics,Immunization,Clinical Reasoning
+E5,E5-Q040,Pediatrics,Growth & Development,Diagnosis
+E5,E5-Q041,Public Health,Health Policy,Clinical Reasoning
+E5,E5-Q042,Pediatrics,Pediatric Infections,Management
+E5,E5-Q043,Surgery,Trauma,Management
+E5,E5-Q044,Internal Medicine,Pulmonology,Diagnosis
+E5,E5-Q045,Pediatrics,Neonatology,Clinical Reasoning
+E5,E5-Q046,Public Health,Health Policy,Management
+E5,E5-Q047,Pediatrics,Immunization,Prevention
+E5,E5-Q048,Surgery,Acute Abdomen,Clinical Reasoning
+E5,E5-Q049,Pediatrics,Neonatology,Prevention
+E5,E5-Q050,Internal Medicine,Infectious Diseases,Diagnosis
+E5,E5-Q051,Surgery,Trauma,Clinical Reasoning
+E5,E5-Q052,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E5,E5-Q053,Surgery,Perioperative Care,Diagnosis
+E5,E5-Q054,Public Health,Primary Care,Diagnosis
+E5,E5-Q055,Pediatrics,Growth & Development,Diagnosis
+E5,E5-Q056,Surgery,Perioperative Care,Clinical Reasoning
+E5,E5-Q057,Public Health,Health Policy,Prevention
+E5,E5-Q058,Pediatrics,Pediatric Infections,Prevention
+E5,E5-Q059,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E5,E5-Q060,Public Health,Preventive Medicine,Management
+E5,E5-Q061,Internal Medicine,Infectious Diseases,Management
+E5,E5-Q062,Internal Medicine,Cardiology,Diagnosis
+E5,E5-Q063,Surgery,Perioperative Care,Clinical Reasoning
+E5,E5-Q064,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E5,E5-Q065,Surgery,Trauma,Prevention
+E5,E5-Q066,Public Health,Epidemiology,Prevention
+E5,E5-Q067,Surgery,Acute Abdomen,Management
+E5,E5-Q068,Obstetrics & Gynecology,Gynecologic Oncology,Diagnosis
+E5,E5-Q069,Pediatrics,Pediatric Infections,Management
+E5,E5-Q070,Public Health,Preventive Medicine,Clinical Reasoning
+E5,E5-Q071,Internal Medicine,Pulmonology,Prevention
+E5,E5-Q072,Surgery,Vascular Surgery,Management
+E5,E5-Q073,Internal Medicine,Nephrology,Diagnosis
+E5,E5-Q074,Internal Medicine,Endocrinology,Clinical Reasoning
+E5,E5-Q075,Pediatrics,Immunization,Management
+E5,E5-Q076,Pediatrics,Immunization,Clinical Reasoning
+E5,E5-Q077,Obstetrics & Gynecology,Labor & Delivery,Prevention
+E5,E5-Q078,Internal Medicine,Nephrology,Prevention
+E5,E5-Q079,Obstetrics & Gynecology,Gynecologic Oncology,Diagnosis
+E5,E5-Q080,Surgery,Trauma,Clinical Reasoning
+E5,E5-Q081,Public Health,Primary Care,Diagnosis
+E5,E5-Q082,Internal Medicine,Endocrinology,Prevention
+E5,E5-Q083,Public Health,Epidemiology,Clinical Reasoning
+E5,E5-Q084,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E5,E5-Q085,Public Health,Primary Care,Clinical Reasoning
+E5,E5-Q086,Obstetrics & Gynecology,Prenatal Care,Diagnosis
+E5,E5-Q087,Surgery,Trauma,Clinical Reasoning
+E5,E5-Q088,Internal Medicine,Nephrology,Diagnosis
+E5,E5-Q089,Obstetrics & Gynecology,Labor & Delivery,Diagnosis
+E5,E5-Q090,Public Health,Preventive Medicine,Diagnosis
+E5,E5-Q091,Surgery,Perioperative Care,Clinical Reasoning
+E5,E5-Q092,Pediatrics,Pediatric Infections,Diagnosis
+E5,E5-Q093,Surgery,Trauma,Clinical Reasoning
+E5,E5-Q094,Obstetrics & Gynecology,Prenatal Care,Prevention
+E5,E5-Q095,Internal Medicine,Nephrology,Management
+E5,E5-Q096,Internal Medicine,Pulmonology,Clinical Reasoning
+E5,E5-Q097,Pediatrics,Immunization,Prevention
+E5,E5-Q098,Pediatrics,Neonatology,Management
+E5,E5-Q099,Internal Medicine,Cardiology,Diagnosis
+E5,E5-Q100,Public Health,Preventive Medicine,Diagnosis
+E6,E6-Q001,Public Health,Health Policy,Clinical Reasoning
+E6,E6-Q002,Surgery,Vascular Surgery,Clinical Reasoning
+E6,E6-Q003,Surgery,Vascular Surgery,Clinical Reasoning
+E6,E6-Q004,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E6,E6-Q005,Internal Medicine,Infectious Diseases,Prevention
+E6,E6-Q006,Public Health,Epidemiology,Clinical Reasoning
+E6,E6-Q007,Pediatrics,Pediatric Infections,Prevention
+E6,E6-Q008,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E6,E6-Q009,Internal Medicine,Nephrology,Diagnosis
+E6,E6-Q010,Internal Medicine,Cardiology,Prevention
+E6,E6-Q011,Pediatrics,Pediatric Infections,Prevention
+E6,E6-Q012,Pediatrics,Growth & Development,Management
+E6,E6-Q013,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E6,E6-Q014,Pediatrics,Neonatology,Diagnosis
+E6,E6-Q015,Surgery,Acute Abdomen,Diagnosis
+E6,E6-Q016,Public Health,Preventive Medicine,Diagnosis
+E6,E6-Q017,Surgery,Trauma,Clinical Reasoning
+E6,E6-Q018,Surgery,Acute Abdomen,Management
+E6,E6-Q019,Public Health,Primary Care,Prevention
+E6,E6-Q020,Public Health,Health Policy,Diagnosis
+E6,E6-Q021,Obstetrics & Gynecology,Labor & Delivery,Management
+E6,E6-Q022,Surgery,Vascular Surgery,Prevention
+E6,E6-Q023,Obstetrics & Gynecology,Family Planning,Clinical Reasoning
+E6,E6-Q024,Internal Medicine,Infectious Diseases,Management
+E6,E6-Q025,Pediatrics,Neonatology,Prevention
+E6,E6-Q026,Pediatrics,Pediatric Infections,Clinical Reasoning
+E6,E6-Q027,Surgery,Acute Abdomen,Prevention
+E6,E6-Q028,Internal Medicine,Infectious Diseases,Management
+E6,E6-Q029,Pediatrics,Immunization,Management
+E6,E6-Q030,Surgery,Acute Abdomen,Diagnosis
+E6,E6-Q031,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E6,E6-Q032,Public Health,Health Policy,Diagnosis
+E6,E6-Q033,Obstetrics & Gynecology,Labor & Delivery,Prevention
+E6,E6-Q034,Internal Medicine,Endocrinology,Prevention
+E6,E6-Q035,Public Health,Epidemiology,Diagnosis
+E6,E6-Q036,Surgery,Trauma,Management
+E6,E6-Q037,Surgery,Acute Abdomen,Diagnosis
+E6,E6-Q038,Surgery,Perioperative Care,Prevention
+E6,E6-Q039,Internal Medicine,Infectious Diseases,Management
+E6,E6-Q040,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E6,E6-Q041,Internal Medicine,Endocrinology,Prevention
+E6,E6-Q042,Surgery,Trauma,Management
+E6,E6-Q043,Surgery,Trauma,Prevention
+E6,E6-Q044,Internal Medicine,Nephrology,Diagnosis
+E6,E6-Q045,Public Health,Health Policy,Clinical Reasoning
+E6,E6-Q046,Public Health,Health Policy,Clinical Reasoning
+E6,E6-Q047,Obstetrics & Gynecology,Family Planning,Diagnosis
+E6,E6-Q048,Surgery,Vascular Surgery,Clinical Reasoning
+E6,E6-Q049,Pediatrics,Growth & Development,Prevention
+E6,E6-Q050,Internal Medicine,Nephrology,Management
+E6,E6-Q051,Public Health,Preventive Medicine,Management
+E6,E6-Q052,Internal Medicine,Endocrinology,Clinical Reasoning
+E6,E6-Q053,Surgery,Perioperative Care,Prevention
+E6,E6-Q054,Surgery,Vascular Surgery,Diagnosis
+E6,E6-Q055,Internal Medicine,Nephrology,Management
+E6,E6-Q056,Public Health,Preventive Medicine,Management
+E6,E6-Q057,Pediatrics,Pediatric Infections,Diagnosis
+E6,E6-Q058,Surgery,Perioperative Care,Management
+E6,E6-Q059,Internal Medicine,Pulmonology,Diagnosis
+E6,E6-Q060,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E6,E6-Q061,Pediatrics,Immunization,Clinical Reasoning
+E6,E6-Q062,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E6,E6-Q063,Pediatrics,Growth & Development,Clinical Reasoning
+E6,E6-Q064,Public Health,Primary Care,Management
+E6,E6-Q065,Public Health,Health Policy,Prevention
+E6,E6-Q066,Internal Medicine,Endocrinology,Clinical Reasoning
+E6,E6-Q067,Pediatrics,Growth & Development,Diagnosis
+E6,E6-Q068,Internal Medicine,Pulmonology,Clinical Reasoning
+E6,E6-Q069,Obstetrics & Gynecology,Labor & Delivery,Management
+E6,E6-Q070,Surgery,Trauma,Management
+E6,E6-Q071,Pediatrics,Pediatric Infections,Diagnosis
+E6,E6-Q072,Pediatrics,Growth & Development,Diagnosis
+E6,E6-Q073,Public Health,Epidemiology,Management
+E6,E6-Q074,Pediatrics,Pediatric Infections,Management
+E6,E6-Q075,Surgery,Trauma,Management
+E6,E6-Q076,Pediatrics,Growth & Development,Management
+E6,E6-Q077,Pediatrics,Neonatology,Management
+E6,E6-Q078,Surgery,Perioperative Care,Clinical Reasoning
+E6,E6-Q079,Pediatrics,Pediatric Infections,Prevention
+E6,E6-Q080,Internal Medicine,Cardiology,Clinical Reasoning
+E6,E6-Q081,Public Health,Epidemiology,Prevention
+E6,E6-Q082,Obstetrics & Gynecology,Gynecologic Oncology,Management
+E6,E6-Q083,Pediatrics,Growth & Development,Diagnosis
+E6,E6-Q084,Internal Medicine,Endocrinology,Diagnosis
+E6,E6-Q085,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E6,E6-Q086,Surgery,Trauma,Clinical Reasoning
+E6,E6-Q087,Obstetrics & Gynecology,Gynecologic Oncology,Diagnosis
+E6,E6-Q088,Public Health,Health Policy,Diagnosis
+E6,E6-Q089,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E6,E6-Q090,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E6,E6-Q091,Surgery,Acute Abdomen,Diagnosis
+E6,E6-Q092,Pediatrics,Neonatology,Clinical Reasoning
+E6,E6-Q093,Internal Medicine,Infectious Diseases,Prevention
+E6,E6-Q094,Pediatrics,Neonatology,Diagnosis
+E6,E6-Q095,Surgery,Perioperative Care,Management
+E6,E6-Q096,Surgery,Perioperative Care,Clinical Reasoning
+E6,E6-Q097,Internal Medicine,Nephrology,Diagnosis
+E6,E6-Q098,Internal Medicine,Infectious Diseases,Clinical Reasoning
+E6,E6-Q099,Internal Medicine,Pulmonology,Clinical Reasoning
+E6,E6-Q100,Public Health,Preventive Medicine,Diagnosis
+E7,E7-Q001,Pediatrics,Growth & Development,Management
+E7,E7-Q002,Pediatrics,Neonatology,Clinical Reasoning
+E7,E7-Q003,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E7,E7-Q004,Public Health,Primary Care,Prevention
+E7,E7-Q005,Public Health,Primary Care,Diagnosis
+E7,E7-Q006,Surgery,Acute Abdomen,Management
+E7,E7-Q007,Pediatrics,Immunization,Prevention
+E7,E7-Q008,Pediatrics,Immunization,Management
+E7,E7-Q009,Internal Medicine,Cardiology,Prevention
+E7,E7-Q010,Surgery,Vascular Surgery,Management
+E7,E7-Q011,Surgery,Acute Abdomen,Prevention
+E7,E7-Q012,Public Health,Preventive Medicine,Management
+E7,E7-Q013,Internal Medicine,Nephrology,Management
+E7,E7-Q014,Internal Medicine,Nephrology,Prevention
+E7,E7-Q015,Surgery,Trauma,Management
+E7,E7-Q016,Pediatrics,Immunization,Diagnosis
+E7,E7-Q017,Pediatrics,Immunization,Prevention
+E7,E7-Q018,Surgery,Vascular Surgery,Management
+E7,E7-Q019,Internal Medicine,Nephrology,Diagnosis
+E7,E7-Q020,Obstetrics & Gynecology,Family Planning,Diagnosis
+E7,E7-Q021,Public Health,Health Policy,Management
+E7,E7-Q022,Internal Medicine,Infectious Diseases,Diagnosis
+E7,E7-Q023,Public Health,Health Policy,Clinical Reasoning
+E7,E7-Q024,Surgery,Acute Abdomen,Prevention
+E7,E7-Q025,Obstetrics & Gynecology,Prenatal Care,Diagnosis
+E7,E7-Q026,Pediatrics,Pediatric Infections,Management
+E7,E7-Q027,Surgery,Acute Abdomen,Clinical Reasoning
+E7,E7-Q028,Surgery,Vascular Surgery,Prevention
+E7,E7-Q029,Pediatrics,Neonatology,Management
+E7,E7-Q030,Public Health,Epidemiology,Diagnosis
+E7,E7-Q031,Public Health,Primary Care,Management
+E7,E7-Q032,Public Health,Epidemiology,Clinical Reasoning
+E7,E7-Q033,Surgery,Acute Abdomen,Clinical Reasoning
+E7,E7-Q034,Public Health,Health Policy,Diagnosis
+E7,E7-Q035,Pediatrics,Pediatric Infections,Clinical Reasoning
+E7,E7-Q036,Internal Medicine,Nephrology,Diagnosis
+E7,E7-Q037,Public Health,Epidemiology,Diagnosis
+E7,E7-Q038,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E7,E7-Q039,Obstetrics & Gynecology,Labor & Delivery,Clinical Reasoning
+E7,E7-Q040,Pediatrics,Immunization,Clinical Reasoning
+E7,E7-Q041,Surgery,Vascular Surgery,Management
+E7,E7-Q042,Public Health,Preventive Medicine,Clinical Reasoning
+E7,E7-Q043,Surgery,Trauma,Management
+E7,E7-Q044,Pediatrics,Neonatology,Prevention
+E7,E7-Q045,Obstetrics & Gynecology,Labor & Delivery,Diagnosis
+E7,E7-Q046,Pediatrics,Growth & Development,Management
+E7,E7-Q047,Pediatrics,Neonatology,Diagnosis
+E7,E7-Q048,Obstetrics & Gynecology,Family Planning,Diagnosis
+E7,E7-Q049,Internal Medicine,Infectious Diseases,Management
+E7,E7-Q050,Pediatrics,Growth & Development,Diagnosis
+E7,E7-Q051,Surgery,Vascular Surgery,Diagnosis
+E7,E7-Q052,Internal Medicine,Pulmonology,Clinical Reasoning
+E7,E7-Q053,Internal Medicine,Nephrology,Prevention
+E7,E7-Q054,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E7,E7-Q055,Internal Medicine,Endocrinology,Prevention
+E7,E7-Q056,Pediatrics,Immunization,Clinical Reasoning
+E7,E7-Q057,Surgery,Perioperative Care,Management
+E7,E7-Q058,Public Health,Primary Care,Management
+E7,E7-Q059,Internal Medicine,Cardiology,Clinical Reasoning
+E7,E7-Q060,Surgery,Vascular Surgery,Prevention
+E7,E7-Q061,Internal Medicine,Cardiology,Prevention
+E7,E7-Q062,Public Health,Health Policy,Diagnosis
+E7,E7-Q063,Internal Medicine,Infectious Diseases,Prevention
+E7,E7-Q064,Pediatrics,Pediatric Infections,Clinical Reasoning
+E7,E7-Q065,Internal Medicine,Endocrinology,Management
+E7,E7-Q066,Surgery,Perioperative Care,Prevention
+E7,E7-Q067,Internal Medicine,Pulmonology,Management
+E7,E7-Q068,Obstetrics & Gynecology,Gynecologic Oncology,Prevention
+E7,E7-Q069,Internal Medicine,Pulmonology,Prevention
+E7,E7-Q070,Obstetrics & Gynecology,Prenatal Care,Clinical Reasoning
+E7,E7-Q071,Internal Medicine,Infectious Diseases,Management
+E7,E7-Q072,Obstetrics & Gynecology,Prenatal Care,Prevention
+E7,E7-Q073,Obstetrics & Gynecology,Labor & Delivery,Diagnosis
+E7,E7-Q074,Obstetrics & Gynecology,Family Planning,Diagnosis
+E7,E7-Q075,Obstetrics & Gynecology,Labor & Delivery,Diagnosis
+E7,E7-Q076,Pediatrics,Pediatric Infections,Management
+E7,E7-Q077,Internal Medicine,Pulmonology,Clinical Reasoning
+E7,E7-Q078,Surgery,Acute Abdomen,Clinical Reasoning
+E7,E7-Q079,Pediatrics,Pediatric Infections,Diagnosis
+E7,E7-Q080,Obstetrics & Gynecology,Gynecologic Oncology,Management
+E7,E7-Q081,Surgery,Acute Abdomen,Management
+E7,E7-Q082,Surgery,Vascular Surgery,Management
+E7,E7-Q083,Obstetrics & Gynecology,Labor & Delivery,Prevention
+E7,E7-Q084,Pediatrics,Pediatric Infections,Prevention
+E7,E7-Q085,Pediatrics,Neonatology,Diagnosis
+E7,E7-Q086,Internal Medicine,Nephrology,Clinical Reasoning
+E7,E7-Q087,Obstetrics & Gynecology,Labor & Delivery,Management
+E7,E7-Q088,Pediatrics,Growth & Development,Management
+E7,E7-Q089,Pediatrics,Immunization,Clinical Reasoning
+E7,E7-Q090,Public Health,Epidemiology,Management
+E7,E7-Q091,Internal Medicine,Cardiology,Clinical Reasoning
+E7,E7-Q092,Public Health,Epidemiology,Clinical Reasoning
+E7,E7-Q093,Public Health,Epidemiology,Diagnosis
+E7,E7-Q094,Public Health,Preventive Medicine,Prevention
+E7,E7-Q095,Internal Medicine,Endocrinology,Management
+E7,E7-Q096,Internal Medicine,Nephrology,Prevention
+E7,E7-Q097,Internal Medicine,Nephrology,Prevention
+E7,E7-Q098,Pediatrics,Growth & Development,Diagnosis
+E7,E7-Q099,Pediatrics,Growth & Development,Prevention
+E7,E7-Q100,Obstetrics & Gynecology,Prenatal Care,Prevention
